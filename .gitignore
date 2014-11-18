@@ -1,0 +1,19 @@
+
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+
+# emacs backup files
+*~
+
+# emacs cache files
+.#*
+
+# emacs auto save files
+\#*#
